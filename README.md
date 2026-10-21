@@ -42,4 +42,4 @@ Luego visita http://localhost:8000.
 
 **Brayant Vásquez Gómez** · [GitHub](https://github.com/iBrayant) · [LinkedIn](https://linkedin.com/in/brayant-vásquez-gómez)
 
-Licencia [MIT](LICENSE) para el código. Las ilustraciones e imágenes de la carpeta raíz no son de mi autoría y conservan la licencia de sus respectivos autores.
+Licencia [MIT](LICENSE) para el código.
